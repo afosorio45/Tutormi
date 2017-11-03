@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">tutormi_v.1.0.0</string>
+        <string name="action_settings">Settings</string>
+
+
+    <string-array name="tutores_array">
+        <item>Juan</item>
+        <item>Alejandro</item>
+        <item>David</item>
+        <item>Juana</item>
+        <item>Maria</item>
+        <item>Julian</item>
+        <item>Jose</item>
+        <item>Diana</item>
+        <item>Ramiro</item>
+        <item>Jorge</item>
+        <item>Natalia</item>
+        <item>Jenifer</item>
+        <item>Antonella</item>
+        <item>Nicolle</item>
+        <item>Andres</item>
+        <item>Andrea</item>
+        <item>Sara</item>
+        <item>Michelle</item>
+        <item>Laura</item>
+        <item>Pablo</item>
+        <item>Mariana</item>
+        <item>Diego</item>
+        <item>John</item>
+        <item>Gloria</item>
+    </string-array>
+</resources>
