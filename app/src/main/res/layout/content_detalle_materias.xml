@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.usuario.tutormi_v100.Detalle_materias"
+    tools:showIn="@layout/activity_detalle_materias">
+
+
+    <TextView
+        android:id="@+id/nombre_materias"
+        android:text="Hola"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:paddingLeft="50dp"
+        android:textSize="40dp"
+        android:layout_marginTop="30dp"
+        />
+
+</android.support.constraint.ConstraintLayout>

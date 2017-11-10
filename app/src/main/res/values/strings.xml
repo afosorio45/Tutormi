@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">tutormi_v.1.0.0</string>
-        <string name="action_settings">Settings</string>
+    <string name="action_settings">Settings</string>
 
 
     <string-array name="tutores_array">
@@ -29,4 +29,6 @@
         <item>John</item>
         <item>Gloria</item>
     </string-array>
+    <string name="title_activity_listado_materias">listado_materias</string>
+    <string name="title_activity_detalle_materias">Detalle_materias</string>
 </resources>
