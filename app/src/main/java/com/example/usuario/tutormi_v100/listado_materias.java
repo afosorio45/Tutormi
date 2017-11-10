@@ -39,7 +39,7 @@ public class listado_materias extends AppCompatActivity {
 
                 String itemValue = (String) listView.getItemAtPosition(posicion);
 
-                Intent intent = new Intent(getApplicationContext(),MateriasActivity.class);
+                Intent intent = new Intent(getApplicationContext(),Detalle_materias.class);
 
                 intent.putExtra("materias",Materias[posicion]);
 
